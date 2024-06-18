@@ -1,0 +1,14 @@
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\bin\Debug\net8.0\floricultura.exe
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\bin\Debug\net8.0\floricultura.deps.json
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\bin\Debug\net8.0\floricultura.runtimeconfig.json
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\bin\Debug\net8.0\floricultura.dll
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\bin\Debug\net8.0\floricultura.pdb
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.AssemblyInfoInputs.cache
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.AssemblyInfo.cs
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.csproj.CoreCompileInputs.cache
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.dll
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\refint\floricultura.dll
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.pdb
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.genruntimeconfig.cache
+C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\ref\floricultura.dll
