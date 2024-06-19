@@ -12,3 +12,18 @@ C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\refi
 C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.pdb
 C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\floricultura.genruntimeconfig.cache
 C:\Users\415238\Desktop\projeto-flori cultura\floricultura\obj\Debug\net8.0\ref\floricultura.dll
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.AssemblyInfoInputs.cache
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.AssemblyInfo.cs
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.csproj.CoreCompileInputs.cache
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.sourcelink.json
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.dll
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\refint\floricultura.dll
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.pdb
+C:\Users\ti.vinicius\Desktop\Floricultura\bin\Debug\net8.0\floricultura.exe
+C:\Users\ti.vinicius\Desktop\Floricultura\bin\Debug\net8.0\floricultura.deps.json
+C:\Users\ti.vinicius\Desktop\Floricultura\bin\Debug\net8.0\floricultura.runtimeconfig.json
+C:\Users\ti.vinicius\Desktop\Floricultura\bin\Debug\net8.0\floricultura.dll
+C:\Users\ti.vinicius\Desktop\Floricultura\bin\Debug\net8.0\floricultura.pdb
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\floricultura.genruntimeconfig.cache
+C:\Users\ti.vinicius\Desktop\Floricultura\obj\Debug\net8.0\ref\floricultura.dll

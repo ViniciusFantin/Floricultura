@@ -7,8 +7,8 @@ namespace Floricultura.Data
     {
         private static List<Flor> flores = new List<Flor>
         {
-            new Flor { Id = 1, Nome = "Rosa", QuantidadeEstoque = 100 },
-            new Flor { Id = 2, Nome = "Tulipa", QuantidadeEstoque = 50 },
+            new Flor { Id = 1, Nome = "Rosa", QuantidadeEstoque = 71 },
+            new Flor { Id = 2, Nome = "Tulipa", QuantidadeEstoque = 52 },
         };
 
         public static List<Flor> GetFlores()
