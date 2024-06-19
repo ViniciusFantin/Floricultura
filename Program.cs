@@ -9,7 +9,7 @@ namespace Floricultura
         static void Main(string[] args)
         {
             var view = new FlorView();
-            view.Menu();
+            view.Menu(); // Inicia o menu da aplicação
         }
     }
 }

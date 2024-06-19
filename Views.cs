@@ -8,27 +8,29 @@ namespace Floricultura.Views
     {
         private FlorController controller = new FlorController();
 
-        public void DisplayFlores()
+        public void DisplayFlores() //Método para exibir a Lista
         {
             var flores = controller.Index();
             Console.WriteLine("Lista de Flores:");
             foreach (var flor in flores)
             {
-                Console.WriteLine($"ID: {flor.Id}, Nome: {flor.Nome}, Quantidade em Estoque: {flor.QuantidadeEstoque}");
+                Console.WriteLine($"ID: {flor.Id}, Nome: {flor.Nome}, Quantidade em Estoque: {flor.QuantidadeEstoque}, Valor: R${flor.ValorEmReais:F2}");
             }
         }
 
-        public void AddFlor()
+        public void AddFlor() //Método de adição de uma flor
         {
             var novaFlor = new Flor();
             Console.Write("Nome da Flor: ");
             novaFlor.Nome = Console.ReadLine();
             Console.Write("Quantidade em Estoque: ");
             novaFlor.QuantidadeEstoque = int.Parse(Console.ReadLine());
+            Console.Write("Valor em Reais: ");
+            novaFlor.ValorEmReais = decimal.Parse(Console.ReadLine());
             controller.Create(novaFlor);
         }
 
-        public void EditFlor()
+        public void EditFlor() //Método de edit de cada flor 
         {
             Console.Write("ID da Flor a Editar: ");
             var id = int.Parse(Console.ReadLine());
@@ -37,6 +39,8 @@ namespace Floricultura.Views
             flor.Nome = Console.ReadLine();
             Console.Write("Nova Quantidade em Estoque: ");
             flor.QuantidadeEstoque = int.Parse(Console.ReadLine());
+            Console.Write("Novo Valor em Reais: ");
+            flor.ValorEmReais = decimal.Parse(Console.ReadLine());
             controller.Edit(flor);
         }
 
@@ -47,7 +51,7 @@ namespace Floricultura.Views
             controller.Delete(id);
         }
 
-        public void Menu()
+        public void Menu() //Método para exibir o menu para o usuário e lidar com a navegaçaõ do mesmo
         {
             while (true)
             {
