@@ -55,13 +55,20 @@ namespace Floricultura.Views
         {
             while (true)
             {
-                Console.WriteLine("\nMenu:");
-                Console.WriteLine("1. Listar Flores");
-                Console.WriteLine("2. Adicionar Flor");
-                Console.WriteLine("3. Editar Flor");
-                Console.WriteLine("4. Deletar Flor");
-                Console.WriteLine("5. Sair");
+                Console.WriteLine("\n******* Menu *******");
+                Console.WriteLine("|------------------|");
+                Console.WriteLine("|1. Listar Flores  |");
+                Console.WriteLine("|------------------|");
+                Console.WriteLine("|2. Adicionar Flor |");
+                Console.WriteLine("|------------------|");
+                Console.WriteLine("|3. Editar Flor    |");
+                Console.WriteLine("|------------------|");
+                Console.WriteLine("|4. Deletar Flor   |");
+                Console.WriteLine("|------------------|");
+                Console.WriteLine("|5. Sair           |");
+                Console.WriteLine("|------------------|");
                 Console.Write("Escolha uma opção: ");
+
 
                 var escolha = Console.ReadLine();
                 switch (escolha)

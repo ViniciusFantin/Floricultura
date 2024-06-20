@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ti.vinicius\\.nuget\\packages\\": {}
+    "C:\\Users\\Pichau\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ti.vinicius\\Desktop\\Floricultura\\floricultura.csproj",
+      "projectUniqueName": "C:\\Users\\Pichau\\Documents\\github\\Floricultura\\floricultura.csproj",
       "projectName": "floricultura",
-      "projectPath": "C:\\Users\\ti.vinicius\\Desktop\\Floricultura\\floricultura.csproj",
-      "packagesPath": "C:\\Users\\ti.vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ti.vinicius\\Desktop\\Floricultura\\obj\\",
+      "projectPath": "C:\\Users\\Pichau\\Documents\\github\\Floricultura\\floricultura.csproj",
+      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pichau\\Documents\\github\\Floricultura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ti.vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
